@@ -1,0 +1,294 @@
+{
+"Andaman and Nicobar Islands": {
+"latitude":11.740100,
+"longitude":92.658600
+},
+"Andhra Pradesh": {
+"latitude":15.912900,
+"longitude":79.740000
+},
+"Arunachal Pradesh": {
+"latitude":28.218000,
+"longitude":94.727800
+},
+"Assam": {
+"latitude":26.200600,
+"longitude":92.937600
+},
+"Bihar": {
+"latitude":25.096100,
+"longitude":85.313100
+},
+"Chandigarh": {
+"latitude":30.733300,
+"longitude":76.779400
+},
+"Chhattisgarh": {
+"latitude":21.278700,
+"longitude":81.866100
+},
+"Dadar Nagar Haveli": {
+"latitude":20.180900,
+"longitude":73.016900
+},
+"Delhi": {
+"latitude":28.704100,
+"longitude":77.102500
+},
+"Goa": {
+"latitude":15.299300,
+"longitude":74.124000
+},
+"Gujarat": {
+"latitude":22.258700,
+"longitude":71.192400
+},
+"Haryana": {
+"latitude":29.058800,
+"longitude":76.085600
+},
+"Himachal Pradesh": {
+"latitude":31.104800,
+"longitude":77.173400
+},   
+"Jammu and Kashmir" : {
+"latitude":33.778200,
+"longitude":76.576200
+},   
+"Jharkhand": {
+"latitude":23.610200,
+"longitude":85.279900
+},
+"Karnataka": {
+"latitude":15.317300,
+"longitude":75.713900
+},
+"Kerala": {
+"latitude":10.850500,
+"longitude":76.271100
+},
+"Ladakh": {
+"latitude":34.209515,
+"longitude":77.615112
+},
+"Lakshadweep": {
+"latitude":8.295441,
+"longitude":73.048973
+},
+"Madhya Pradesh": {
+"latitude":22.973400,
+"longitude":78.656900
+},
+"Maharashtra": {
+"latitude":19.751500,
+"longitude":75.713900
+},
+"Manipur": {
+"latitude":24.663700,
+"longitude":93.906300
+},
+"Meghalaya": {
+"latitude":25.467000,
+"longitude":91.366200
+},
+"Mizoram": {
+"latitude":23.164500,
+"longitude":92.937600
+},
+"Nagaland": {
+"latitude":26.158400,
+"longitude":94.562400
+},
+"Odisha": {
+"latitude":20.951700,
+"longitude":85.098500
+},
+"Puducherry": {
+"latitude":11.941600,
+"longitude":79.808300
+},
+"Punjab": {
+"latitude":31.147100,
+"longitude":75.341200
+},
+"Rajasthan": {
+"latitude":27.023800,
+"longitude":74.217900
+},
+"Sikkim": {
+"latitude":27.533000,
+"longitude":88.512200
+},
+"Tamil Nadu": {
+"latitude":11.127100,
+"longitude":78.656900
+},
+"Telengana": {
+"latitude":18.112400,
+"longitude":79.019300
+},
+"Tripura": {
+"latitude":23.940800,
+"longitude":91.988200
+},
+"Uttar Pradesh": {
+"latitude":26.846700,
+"longitude":80.946200
+},
+"Uttarakhand": {
+"latitude":30.066800,
+"longitude":79.019300
+},
+"West Bengal": {
+"latitude":22.986800,
+"longitude":87.855000
+},
+"Ariyalur": {
+"latitude":11.140100,
+"longitude":79.078600
+},
+"Chengalpattu": {
+"latitude":12.681900,
+"longitude":79.988800
+},
+"Chennai": {
+"latitude":13.082700,
+"longitude":80.270700
+},
+"Coimbatore": {
+"latitude":11.016800,
+"longitude":76.955800
+},
+"Cuddalore": {
+"latitude":11.748000,
+"longitude":79.771400
+},
+"Dharmapuri": {
+"latitude":12.121100,
+"longitude":78.158200
+},
+"Dindigul": {
+"latitude":10.362400,
+"longitude":77.969500
+},
+"Erode": {
+"latitude":11.341000,
+"longitude":77.717200
+},
+"Kallakurichi": {
+"latitude":11.738400,
+"longitude":78.963900
+},
+"Kancheepuram": {
+"latitude":12.818500,
+"longitude":79.694700
+},
+"Kanyakumari": {
+"latitude":8.088300,
+"longitude":77.538500
+},
+"Karur": {
+"latitude":10.960100,
+"longitude":78.076600
+},
+"Krishnagiri": {
+"latitude":12.526600,
+"longitude":78.215000
+},
+"Madurai": {
+"latitude":9.925200,
+"longitude":78.119800
+},
+"Nagapattinam": {
+"latitude":10.767200,
+"longitude":79.844900
+},
+"Namakkal": {
+"latitude":11.218900,
+"longitude":78.167400
+},
+"Nilgiris": {
+"latitude":11.491600,
+"longitude":76.733700
+},
+"Perambalur": {
+"latitude":11.234200,
+"longitude":78.880700
+},
+"Pudukkottai": {
+"latitude":10.383300,
+"longitude":78.800100
+},
+"Ramanathapuram": {
+"latitude":9.363900,
+"longitude":78.839500
+},
+"Ranipet": {
+"latitude":12.948700,
+"longitude":79.319000
+},
+"Salem": {
+"latitude":11.664300,
+"longitude":78.146000
+},
+"Sivaganga": {
+"latitude":9.843300,
+"longitude":78.480900
+},
+"Tenkasi": {
+"latitude":8.959400,
+"longitude":77.316100
+},
+"Thanjavur": {
+"latitude":10.787000,
+"longitude":79.137800
+},
+"Theni": {
+"latitude":10.010400,
+"longitude":77.476800
+},
+"Thiruvallur": {
+"latitude":13.123100,
+"longitude":79.912000
+},
+"Thiruvarur": {
+"latitude":10.766100,
+"longitude":79.634400
+},
+"Thoothukkudi": {
+"latitude":8.764200,
+"longitude":78.134800
+},
+"Tiruchirappalli": {
+"latitude":10.790500,
+"longitude":78.704700
+},
+"Tirunelveli": {
+"latitude":8.713900,
+"longitude":77.756700
+},
+"Tirupathur": {
+"latitude":12.495000,
+"longitude":78.567800
+},
+"Tiruppur": {
+"latitude":11.108500,
+"longitude":77.341100
+},
+"Tiruvannamalai": {
+"latitude":12.225300,
+"longitude":79.074700
+},
+"Vellore": {
+"latitude":12.916500,
+"longitude":79.132500
+},
+"Viluppuram": {
+"latitude":11.940100,
+"longitude":79.486100
+},
+"Virudhunagar": {
+"latitude":9.568000,
+"longitude":77.962400
+}
+}
